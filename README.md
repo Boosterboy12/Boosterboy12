@@ -1,5 +1,5 @@
 # 💫 About Me:
-## ⚔️ Hey there! I'm **Vihaan** 👋<br><br>🚀 A curious developer on a mission to learn, build, and innovate.<br><br>💻 I love working with:<br>- Python<br>- HTML, CSS & JavaScript<br>- Machine Learning<br>- Open Source Projects<br><br>🎮 Interested in:<br>- Game Development<br>- AI & Future Technologies<br>- Building Creative Digital Experiences<br><br>📚 Currently expanding my skills through daily coding, project building, and continuous learning.<br><br>🌟 Motto:<br>"Learn. Build. Improve. Repeat."<br><br>⚡ Always exploring the next big idea.
+## ⚔️ Hey there! I'm **Vihaan** 👋<br><br>🚀 A curious developer on a mission to learn, build, and innovate.<br><br>💻 I love working with:<br>- Python<br>- HTML, CSS & JavaScript<br>- Machine Learning<br>- Open Source Projects<br><br> Currently expanding my skills through daily coding, project building, and continuous learning.<br><br>🌟 Motto:<br>"Learn. Build. Improve. Repeat."<br><br>⚡ Always exploring the next big idea.
 
 
 ## 🌐 Socials:
