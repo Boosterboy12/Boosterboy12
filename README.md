@@ -1,5 +1,17 @@
-# 💫 About Me:
-💫 About Me:<br>⚔️ Hey there! I'm Vihaan 👋<br><br>🚀 A curious developer on a mission to learn, build, and innovate.<br><br>💻 I love working with:<br>- Python<br>- HTML, CSS & JavaScript<br>- Machine Learning<br>- Open Source Projects<br><br>Currently expanding my skills through daily coding, project building, and continuous learning.
+## 🚀 About Me
+
+Hi, I'm **Vihaan**, a passionate AI and Machine Learning enthusiast focused on building real-world projects and continuously expanding my technical skills.
+
+Currently, I'm exploring:
+
+* 🧠 Artificial Intelligence & Machine Learning
+* 🔥 Deep Learning & Neural Networks
+* 🐍 Python Development
+* 📊 Data Science
+
+I enjoy turning ideas into practical applications, contributing to open-source projects, and documenting my learning journey through hands-on development.
+
+> Learning, building, and improving every day.
 
 
 # 💻 Tech Stack:
