@@ -1,22 +1,21 @@
 # 👋 Hi, I'm Vihaan
 
-### 🚀 AI & Machine Learning Enthusiast
+## 🚀 AI & Machine Learning Enthusiast
 
-I'm passionate about exploring Artificial Intelligence, Machine Learning, and Deep Learning while building practical projects that turn ideas into real solutions.
+### Building a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, and Python development.
 
-Currently, I'm focused on:
+### Passionate about creating real-world projects, solving challenging problems, and continuously improving through hands-on learning.
+
+### Currently focused on:
 
 * 🧠 Artificial Intelligence & Machine Learning
 * 🔥 Deep Learning & Neural Networks
-* 🐍 Python Development
-* 📊 Data Science & Analytics
-* 🚀 Building Real-World AI Projects
+* 🐍 Python Programming
+* 📊 Data Science
+* 🚀 End-to-End AI Projects
 
-I enjoy learning new technologies, solving challenging problems, and sharing my journey through projects and continuous development.
+## 💡 Learn. Build. Improve. Repeat.
 
-### 💡 Motto
-
-**Learn. Build. Improve. Repeat.**
 
 
 
