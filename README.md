@@ -1,17 +1,23 @@
-## 🚀 About Me ##
+# 👋 Hi, I'm Vihaan
 
-Hi, I'm **Vihaan**, a passionate AI and Machine Learning enthusiast focused on building real-world projects and continuously expanding my technical skills.
+### 🚀 AI & Machine Learning Enthusiast
 
-Currently, I'm exploring:
+I'm passionate about exploring Artificial Intelligence, Machine Learning, and Deep Learning while building practical projects that turn ideas into real solutions.
+
+Currently, I'm focused on:
 
 * 🧠 Artificial Intelligence & Machine Learning
 * 🔥 Deep Learning & Neural Networks
 * 🐍 Python Development
-* 📊 Data Science
+* 📊 Data Science & Analytics
+* 🚀 Building Real-World AI Projects
 
-I enjoy turning ideas into practical applications, contributing to open-source projects, and documenting my learning journey through hands-on development.
+I enjoy learning new technologies, solving challenging problems, and sharing my journey through projects and continuous development.
 
-> Learning, building, and improving every day.
+### 💡 Motto
+
+**Learn. Build. Improve. Repeat.**
+
 
 
 # 💻 Tech Stack:
