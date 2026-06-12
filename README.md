@@ -1,4 +1,4 @@
-## 🚀 About Me
+## 🚀 About Me ##
 
 Hi, I'm **Vihaan**, a passionate AI and Machine Learning enthusiast focused on building real-world projects and continuously expanding my technical skills.
 
