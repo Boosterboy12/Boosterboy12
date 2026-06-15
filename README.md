@@ -8,14 +8,6 @@
 
 <br><br>
 
-<!-- Gamer Badges -->
-<img src="https://img.shields.io/badge/LEVEL-99-ff0055?style=for-the-badge&logo=starship&logoColor=white" />
-<img src="https://img.shields.io/badge/CLASS-FULLSTACK%20DEV-00f7ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/RANK-ELITE%20CODER-9d00ff?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/XP-999999-gold?style=for-the-badge&logo=thunderbird&logoColor=black" />
-
-</div>
-
 <!-- Animated Neon Divider -->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,14,19,24" />
@@ -27,6 +19,16 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:00f7ff,50:9d00ff,100:ff0055&text=ENTER%20THE%20CODEVERSE&fontColor=ffffff&fontSize=45&animation=twinkling&stroke=00f7ff&strokeWidth=2" />
 </div>
+
+
+<!-- Gamer Badges -->
+<img src="https://img.shields.io/badge/LEVEL-99-ff0055?style=for-the-badge&logo=starship&logoColor=white" />
+<img src="https://img.shields.io/badge/CLASS-FULLSTACK%20DEV-00f7ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/RANK-ELITE%20CODER-9d00ff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/XP-999999-gold?style=for-the-badge&logo=thunderbird&logoColor=black" />
+
+</div>
+
 
 ---
 
