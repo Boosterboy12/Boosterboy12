@@ -172,48 +172,6 @@ favorite_stack:
 
 <div align="center">
 
-## 🐍 Contribution Snake Arena
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution snake animation"
-    src="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake.svg"
-  />
-</picture>
-
-</div>
----
-
-<div align="center">
-
-## 🏆 3D Trophy Wall
-
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=15&column=8" />
-
-<br><br>
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boosterboy12&theme=radical" />
-
-<br><br>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boosterboy12&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Boosterboy12&theme=radical" />
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Boosterboy12&theme=radical&utcOffset=5.5" />
-
-</div>
-
----
-
-<div align="center">
-
 ## 🎒 Developer Inventory
 
 <table width="100%">
