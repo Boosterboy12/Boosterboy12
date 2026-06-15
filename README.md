@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Neon Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=YOUR%20NAME&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Gamer%20%7C%20Developer%20%7C%20Creator%20%7C%20Future%20Tech%20Builder&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=WELCOME%20TO%20THEVOID&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Gamer%20%7C%20Developer%20%7C%20Creator%20%7C%20Future%20Tech%20Builder&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Arena;I+build+interactive+digital+experiences;Code.+Game.+Create.+Level+Up.;Turning+ideas+into+powerful+projects" />
