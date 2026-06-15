@@ -74,10 +74,13 @@
 
 ## 🎧 SPOTIFY NOW PLAYING
 
-<p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=_OG_=_GOD_&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" />
-</p>
+## 🎧 NOW PLAYING
 
+<p align="center">
+
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=_OG_=_GOD_&cover_image=true&theme=novatorem" />
+
+</p>
 ---
 
 ## 🌐 CONNECT WITH ME
