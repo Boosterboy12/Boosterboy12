@@ -1,34 +1,36 @@
 <div align="center">
 
-<!-- HOLOGRAM STYLE HEADER (CAPSULE ILLUSION) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e,200:000000&height=220&section=header&text=WELCOME%20VIHAAN&fontSize=40&fontColor=00f5ff&animation=fadeIn" />
+# VIHAAN
 
-<!-- RAINBOW CYBER TITLE -->
-<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F5FF&center=true&vCenter=true&width=650&lines=SYSTEM+ONLINE;HOLOGRAPHIC+INTERFACE+ACTIVE;AI+CORE+LOADING;BUILDING+FUTURE+TECH" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e,200:000000&height=200&section=header&text=DEVELOPER%20PROFILE&fontSize=40&fontColor=00f5ff" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=20&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Engineer;Machine+Learning+Explorer" />
 
 </div>
 
 ---
 
-# 🌌 ABOUT ME (CYBER CORE)
+# 👤 ABOUT ME
 
-I am a developer focused on building intelligent systems, AI applications, and modern web technologies.
+I am Vihaan, a developer focused on building real-world applications using modern technologies.
 
-I enjoy creating real-world impactful projects and learning advanced AI + software engineering concepts.
+My interests include Artificial Intelligence, Machine Learning, and Full Stack Web Development.
+
+I enjoy building practical systems that solve real problems.
 
 ---
 
-# ⚙️ SYSTEM ARSENAL
+# ⚙️ SKILLS
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,js,react,nodejs,html,css,firebase,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,html,css,firebase,git,github,linux" />
 
 </p>
 
 ---
 
-# 📊 LIVE SYSTEM STATUS
+# 📊 GITHUB STATS
 
 <p align="center">
 
@@ -40,7 +42,7 @@ I enjoy creating real-world impactful projects and learning advanced AI + softwa
 
 ---
 
-# 🧠 LANGUAGE MATRIX
+# 📈 LANGUAGES
 
 <p align="center">
 
@@ -50,31 +52,17 @@ I enjoy creating real-world impactful projects and learning advanced AI + softwa
 
 ---
 
-# 🚀 PROJECT HOLOGRAM MODULE
+# 🚀 PROJECTS
 
-## 🤖 ScamShield-X
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/AI%20Fraud%20Detection-00F5FF?style=for-the-badge&logo=github" />
-</a>
+## ScamShield-X
+AI-based system designed to detect fraudulent activity and improve online safety.
 
-- Detects online fraud patterns  
-- AI-based decision system  
-- Real-world security concept  
+## To-Do App
+A simple and efficient task management application for daily productivity.
 
 ---
 
-## 📝 To-Do App
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Productivity%20App-FF00FF?style=for-the-badge&logo=github" />
-</a>
-
-- Clean UI system  
-- Fast performance  
-- Daily task manager  
-
----
-
-# 🐍 CONTRIBUTION MATRIX
+# 🐍 CONTRIBUTIONS
 
 <p align="center">
 
@@ -84,7 +72,7 @@ I enjoy creating real-world impactful projects and learning advanced AI + softwa
 
 ---
 
-# 🏆 ACHIEVEMENT CORE
+# 🏆 ACHIEVEMENTS
 
 <p align="center">
 
@@ -94,14 +82,10 @@ I enjoy creating real-world impactful projects and learning advanced AI + softwa
 
 ---
 
-# 🌈 SYSTEM FINAL MESSAGE
+# ⚡ END MESSAGE
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?size=20&color=00FFB3&center=true&vCenter=true&width=700&lines=SYSTEM+BUILT+FOR+FUTURE;CODE+IS+REALITY;DEVELOPER+MODE+ACTIVE" />
-
----
-
-### ⚡ “I don’t imagine systems… I build them.” ⚡
+I focus on building, learning, and improving every day.
 
 </div>
