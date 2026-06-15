@@ -1,36 +1,119 @@
-# 👋 Hi, I'm Vihaan
+<div align="center">
 
-## 🚀 AI & Machine Learning Enthusiast
+# ⚡ Vihaan The Legend ⚡
 
-### Building a strong foundation in Artificial Intelligence, Machine Learning, Deep Learning, and Python development.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63,200:24243e&height=220&section=header&text=BUILD%20THE%20FUTURE&fontSize=45&fontColor=ffffff" />
 
-### Passionate about creating real-world projects, solving challenging problems, and continuously improving through hands-on learning.
-
-### Currently focused on:
-
-* 🧠 Artificial Intelligence & Machine Learning
-* 🔥 Deep Learning & Neural Networks
-* 🐍 Python Programming
-* 📊 Data Science
-* 🚀 End-to-End AI Projects
-
-## 💡 Learn. Build. Improve. Repeat.
-
-
-
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=plastic&logo=blender&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=plastic&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=plastic&logo=unity&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![P5js](https://img.shields.io/badge/p5.js-ED225D?style=plastic&logo=p5.js&logoColor=FFFFFF) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-<p align="center">
-  <img width="100%" src="https://streak-stats.demolab.com?user=Boosterboy12&theme=neon&hide_border=true&card_width=1000" />
-</p>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=neon&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### 🚀 AI Builder | 🎮 Game Dev | 💻 Full Stack Explorer
 
 ---
-[![](https://komarev.com/ghpvc/?username=Boosterboy12&icon=2&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://readme-typing-svg.herokuapp.com?size=22&color=00F5FF&center=true&vCenter=true&width=600&lines=I+don't+just+code...+I+create+worlds;AI+%7C+ML+%7C+Apps+%7C+Games;Vihaan+The+Legend+⚔️" />
+
+</div>
+
+---
+
+## 🌌 ABOUT ME
+
+- ⚡ Building futuristic AI + App systems  
+- 🧠 Learning Deep Learning, Neural Networks, ML  
+- 🎮 Game dev explorer (Quantum Cat project 💀)  
+- 🚀 Focused on real-world impactful apps  
+- 💡 Goal: Become independent legendary dev  
+
+---
+
+## ⚙️ TECH ARSENAL
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,js,react,nodejs,html,css,firebase,git,github,linux" />
+
+</p>
+
+---
+
+## 📊 GITHUB STATS
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="47%"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="47%"/>
+
+</p>
+
+---
+
+## 🧠 MOST USED LANGUAGES
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+## 🎮 PROJECT SHOWCASE
+
+### 🔥 To-Do List App
+- 🧠 Simple but powerful productivity app  
+- ⚡ Built with modern UI logic  
+- 📱 Mobile-friendly design  
+- 🚀 Focus on real-world usability  
+
+---
+
+## 🐍 CONTRIBUTION SNAKE
+
+<p align="center">
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🎧 SPOTIFY NOW PLAYING
+
+<p align="center">
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" />
+</p>
+
+---
+
+## 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://instagram.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
+
+---
+
+## ⚡ 3D PROFILE BADGES
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 🌈 FINAL MOTTO
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?size=20&color=00FFB3&center=true&vCenter=true&width=500&lines=Code+is+power;AI+is+future;I+build+my+own+world" />
+
+### ⚔️ "I don’t follow the future… I build it." ⚔️
+
+</div>
