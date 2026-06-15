@@ -34,6 +34,33 @@
 
 <div align="center">
 
+## 🎮 Developer Command Center
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/HP-100%25-00ff88?style=for-the-badge&logo=heart&logoColor=white" />
+<br><b>Focus</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/MP-9999-00f7ff?style=for-the-badge&logo=lightning&logoColor=white" />
+<br><b>Creativity</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/ATK-LEGENDARY-ff0055?style=for-the-badge&logo=target&logoColor=white" />
+<br><b>Problem Solving</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/DEF-ELITE-9d00ff?style=for-the-badge&logo=shield&logoColor=white" />
+<br><b>Debugging</b>
+</td>
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
 ## ⚔️ Player Profile
 
 </div>
