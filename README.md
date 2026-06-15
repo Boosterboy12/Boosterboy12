@@ -73,9 +73,6 @@
 ---
 
 ## 🎧 SPOTIFY NOW PLAYING
-
-## 🎧 NOW PLAYING
-
 <p align="center">
 
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=_OG_=_GOD_&cover_image=true&theme=novatorem" />
