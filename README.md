@@ -20,7 +20,7 @@
 - 🧠 Learning Deep Learning, Neural Networks, ML  
 - 🎮 Game dev explorer (Quantum Cat project 💀)  
 - 🚀 Focused on real-world impactful apps  
-- 💡 Goal: Become independent legendary dev  
+- 💡 Goal: Become an independent legendary dev  
 
 ---
 
@@ -36,11 +36,13 @@
 
 ## 📊 GITHUB STATS
 
+## 📊 GITHUB STATS
+
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="47%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Boosterboy12&theme=radical&hide_border=true" width="48%" />
 
 </p>
 
