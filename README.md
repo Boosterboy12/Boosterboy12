@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 3D Neon Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=WELCOME%20TO%20THEVOID&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Gamer%20%7C%20Developer%20%7C%20Creator%20%7C%20Future%20Tech%20Builder&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f0c29,50:302b63,100:24243e&text=HI%20MYSELF%20VIHAAN&fontColor=ffffff&fontSize=70&fontAlignY=38&animation=fadeIn&desc=Gamer%20%7C%20Developer%20%7C%20Creator%20%7C%20Future%20Tech%20Builder&descAlignY=58&descSize=18" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=2500&pause=800&color=00F7FF&center=true&vCenter=true&width=900&lines=Welcome+to+my+GitHub+Arena;I+build+interactive+digital+experiences;Code.+Game.+Create.+Level+Up.;Turning+ideas+into+powerful+projects" />
@@ -29,8 +29,8 @@
 <td width="55%">
 
 ```yaml
-name: "Your Name"
-username: "YOUR_USERNAME"
+name: "Viaan"
+username: "Boosterboy12"
 role: "Developer | Gamer | Builder"
 location: "Earth Server"
 current_mission: "Building next-level projects"
@@ -78,12 +78,12 @@ favorite_stack:
 
 ### 🧬 3D Power Stats
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff&text_color=ffffff" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff&text_color=ffffff" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Boosterboy12&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff" />
 
 <br>
 
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" />
+<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterboy12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff" />
 
 </div>
 
@@ -93,7 +93,7 @@ favorite_stack:
 
 ### 🏆 Achievement Room
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7" />
 
 </div>
 
@@ -103,7 +103,7 @@ favorite_stack:
 
 ### ⚡ Contribution Battle Map
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&area=true&hide_border=true" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Boosterboy12&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&area=true&hide_border=true" />
 
 </div>
 
@@ -121,14 +121,14 @@ favorite_stack:
 
 **🎮 Project One**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ff00ff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Boosterboy12&repo=PROJECT_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ff00ff" />
 
 </td>
 <td width="50%" align="center">
 
 **🧠 Project Two**
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ff00ff" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Boosterboy12&repo=PROJECT_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ff00ff" />
 
 </td>
 </tr>
