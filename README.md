@@ -102,7 +102,7 @@ favorite_stack:
 
 ## 🕹️ Tech Loadout
 
-<img src="https://skillicons.dev/icons?i=html,css,python,mysql,git,github,vscode,figma,blender.canva&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,python,mysql,git,github,vscode,figma,blender,canva&perline=9" />
 
 <br><br>
 
