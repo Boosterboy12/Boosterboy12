@@ -21,7 +21,7 @@
       <p>⚡ <i>"The best way to predict the future is to invent it."</i></p>
     </td>
     <td width="40%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width:100%;" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width:100%;" />
     </td>
   </tr>
 </table>
@@ -51,11 +51,11 @@
 ## 📊 LEVELING UP (GAMER STATS)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=vision-glow&hide_border=false" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterboy12&layout=compact&theme=vision-glow&hide_border=false" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boosterboy12&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
@@ -64,7 +64,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
   </a>
 </p>
 
@@ -73,17 +73,9 @@
 ## 🌐 CONNECT WITH ME
 
 <p align="center">
-  <a href="https://github.com/[YourUsername]">
+  <a href="https://github.com/Boosterboy12">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=neon" alt="Visitor Counter" />
 </p>
