@@ -36,8 +36,6 @@
 
 ## 📊 GITHUB STATS
 
-## 📊 GITHUB STATS
-
 <p align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -69,9 +67,10 @@
 ## 🐍 CONTRIBUTION SNAKE
 
 <p align="center">
-<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
-</p>
 
+<img src="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake.svg" />
+
+</p>
 ---
 
 ## 🎧 SPOTIFY NOW PLAYING
