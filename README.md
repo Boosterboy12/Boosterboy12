@@ -75,7 +75,7 @@
 ## 🎧 SPOTIFY NOW PLAYING
 
 <p align="center">
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" />
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=_OG_=_GOD_&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false" />
 </p>
 
 ---
@@ -84,26 +84,16 @@
 
 <p align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Boosterboy12">
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
-
-<a href="https://instagram.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-</p>
 
 ---
 
 ## ⚡ 3D PROFILE BADGES
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=radical&no-frame=true&row=1&column=7" />
 </p>
 
 ---
