@@ -1,79 +1,61 @@
 <div align="center">
 
-# Vihaan
+# 🧠 SYSTEM BOOTING: VIHAAN
 
-### Software Developer | AI & ML Enthusiast | Full Stack Learner
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e&height=180&section=header&text=LEGEND%20MODE&fontSize=35&fontColor=00f5ff" />
+
+<img src="https://readme-typing-svg.herokuapp.com?size=18&color=00F5FF&center=true&vCenter=true&width=500&lines=AI+Builder;Full+Stack+Dev;ML+Explorer" />
 
 </div>
 
 ---
 
-## 👤 About Me
+## 🧊 SYSTEM
 
-I am a developer focused on building practical and scalable applications.  
-Currently exploring Artificial Intelligence, Machine Learning, and Full Stack Development.
+```txt
+STATUS: ACTIVE
+ROLE  : DEVELOPER
+FOCUS : AI + WEB
+```
 
-I aim to improve my problem-solving skills and work on real-world impactful projects.
+### ⚙️ STACK
+<p align="center"> 
+  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,html,css,git,github" /> 
+</p>
 
----
+### 📊 STATS
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&theme=tokyonight" width="45%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="45%" /> 
+</p>
 
-## 🛠️ Skills
+### 🧠 LANGUAGES
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" /> 
+</p>
 
-- Programming Languages: Python, JavaScript, C++
-- Web Development: HTML, CSS, React, Node.js
-- AI/ML: TensorFlow, PyTorch (Learning Phase)
-- Tools: Git, GitHub, Firebase, Linux
+### 🚀 PROJECTS
 
----
+#### 🛡️ ScamShield-X
+* AI based fraud detection system
 
-## 📊 GitHub Stats
+#### 📝 To-Do App
+* Simple productivity tool
 
-<p align="center">
+### 🐍 SNAKE
+<p align="center"> 
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> 
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default" width="48%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" width="48%" />
-
+### 🏆 TROPHIES
+<p align="center"> 
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&row=1&column=6" /> 
 </p>
 
 ---
 
-## 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
-
-</p>
-
----
-
-## 🚀 Projects
-
-### To-Do List App
-A simple task management application for daily productivity.
-
-### ScamShield-X
-An AI-based concept project focused on detecting online fraud and scams.
-
----
-
-## 📌 Goals
-
-- Improve Machine Learning fundamentals  
-- Build production-level applications  
-- Strengthen Data Structures & Algorithms  
-- Work on real-world AI systems  
-
----
-
-## 📫 Contact
-
-GitHub: https://github.com/YOUR_USERNAME  
-Email: YOUR_EMAIL
-
----
-
-## ⚡ Note
-
-This profile is continuously updated as I learn and build new projects.
+### ⚡ END
+<div align="center">
+  
+  ### “I build systems, not just code.”
+</div>
