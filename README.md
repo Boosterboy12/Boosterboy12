@@ -3,7 +3,7 @@
 <!-- 3D Neon Header -->
 <img
   width="100%"
-  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=YOUR%20NAME&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Gamer%20%7C%20Developer%20%7C%20Creator%20%7C%20Future%20Tech%20Builder&descAlignY=58&descSize=18"
+  src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0f0c29,50:302b63,100:24243e&text=MYSELF%20VIHAAN&fontColor=ffffff&fontSize=72&fontAlignY=38&animation=fadeIn&desc=Gamer%20%7C%20Developer%20%7C%20Creator%20%7C%20Future%20Tech%20Builder&descAlignY=58&descSize=18"
 />
 
 <!-- Typing Animation -->
@@ -21,7 +21,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=Boosterboy12&label=PROFILE+VIEWS&color=ff00ff&style=for-the-badge" />
 
 </div>
 
@@ -49,8 +49,8 @@
 <td width="55%">
 
 ```yaml
-name: "YOUR NAME"
-username: "YOUR_USERNAME"
+name: "Vihaan"
+username: "Boosterboy12"
 role: "Developer | Gamer | Builder"
 location: "Earth Server"
 current_mission: "Building next-level projects"
@@ -162,19 +162,19 @@ favorite_stack:
 
 <img
   width="49%"
-  src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=ff00ff&text_color=ffffff"
 />
 
 <img
   width="49%"
-  src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff"
+  src="https://github-readme-streak-stats.herokuapp.com?user=Boosterboy12&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=ff00ff&currStreakLabel=00f7ff"
 />
 
 <br><br>
 
 <img
   width="70%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterboy12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff"
 />
 
 </div>
@@ -187,7 +187,7 @@ favorite_stack:
 
 <img
   width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&area=true&hide_border=true"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Boosterboy12&bg_color=0d1117&color=00f7ff&line=ff00ff&point=ffffff&area=true&hide_border=true"
 />
 
 </div>
@@ -201,15 +201,15 @@ favorite_stack:
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"
+    srcset="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake.svg"
   />
   <img
     alt="github contribution snake"
-    src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+    src="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
 
@@ -223,29 +223,29 @@ favorite_stack:
 
 <img
   width="100%"
-  src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=15&column=8"
+  src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=matrix&no-frame=true&no-bg=true&margin-w=10&margin-h=15&column=8"
 />
 
 <br><br>
 
 <img
   width="100%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=radical"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Boosterboy12&theme=radical"
 />
 
 <br><br>
 
 <img
   width="32%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YOUR_USERNAME&theme=radical"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Boosterboy12&theme=radical"
 />
 <img
   width="32%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YOUR_USERNAME&theme=radical"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Boosterboy12&theme=radical"
 />
 <img
   width="32%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_USERNAME&theme=radical&utcOffset=5.5"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Boosterboy12&theme=radical&utcOffset=5.5"
 />
 
 </div>
@@ -296,7 +296,7 @@ favorite_stack:
 ### 🎮 Project One
 
 <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ff00ff"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Boosterboy12&repo=PROJECT_REPO_1&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ff00ff"
 />
 
 </td>
@@ -305,7 +305,7 @@ favorite_stack:
 ### 🧠 Project Two
 
 <img
-  src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=PROJECT_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ff00ff"
+  src="https://github-readme-stats.vercel.app/api/pin/?username=Boosterboy12&repo=PROJECT_REPO_2&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&icon_color=ff00ff"
 />
 
 </td>
@@ -337,7 +337,7 @@ flowchart LR
 
 ## 🌐 Connect With Me
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Boosterboy12">
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
