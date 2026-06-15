@@ -65,8 +65,8 @@
 
 <!-- Responsive side-by-side flex block layout -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=vision-glow&hide_border=false&title_color=00f0ff&icon_color=ff0055&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=vision-glow&hide_border=false&title_color=00f0ff&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=vision-glow&hide_border=false&title_color=00f0ff&icon_color=ff0055&bg_color=0d1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterboy12&layout=compact&theme=vision-glow&hide_border=false&title_color=00f0ff&bg_color=0d1117" width="48%" />
 </p>
 
 ---
@@ -75,7 +75,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=shades-of-purple&column=4&margin-w=20&margin-h=20&no-bg=false&no-frame=false" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=shades-of-purple&column=4&margin-w=20&margin-h=20&no-bg=false&no-frame=false" width="100%" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@
 ## 📡 TERMINAL UPLINK
 
 <p align="center">
-  <a href="https://github.com/[YourUsername]">
+  <a href="https://github.com/Boosterboy12">
     <img src="https://img.shields.io/badge/SECURE_ACCESS-000000?style=for-the-badge&logo=github&logoColor=00f0ff" />
   </a>
   <a href="mailto:your-email@example.com">
@@ -93,5 +93,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=ff0055&style=flat-square" alt="Grid Tracker" />
+  <img src="https://komarev.com/ghpvc/?username=Boosterboy12&color=ff0055&style=flat-square" alt="Grid Tracker" />
 </p>
