@@ -1,91 +1,89 @@
-<div align="center">
-
-# VIHAAN
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e,200:000000&height=200&section=header&text=DEVELOPER%20PROFILE&fontSize=40&fontColor=00f5ff" />
-
-<img src="https://readme-typing-svg.herokuapp.com?size=20&color=00F5FF&center=true&vCenter=true&width=600&lines=AI+Developer;Full+Stack+Engineer;Machine+Learning+Explorer" />
-
-</div>
-
----
-
-# 👤 ABOUT ME
-
-I am Vihaan, a developer focused on building real-world applications using modern technologies.
-
-My interests include Artificial Intelligence, Machine Learning, and Full Stack Web Development.
-
-I enjoy building practical systems that solve real problems.
-
----
-
-# ⚙️ SKILLS
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=gradient&width=1000&height=250&section=header&text=WELCOME%20TO%20MY%20REALM&fontSize=40&animation=twinkling&fontAlignY=40" alt="Header Script" />
+</p>
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,cpp,js,react,nodejs,html,css,firebase,git,github,linux" />
-
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=00FFCC&center=true&vCenter=true&width=500&lines=I+am+a+Passionate+Developer;;Building+the+Future+of+Tech;;Designing+3D+Interfaces;;Welcome+to+my+Legendary+Space" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
 
-# 📊 GITHUB STATS
+## 🌌 ABOUT ME
 
-<p align="center">
+<table align="center" width="100%">
+  <tr>
+    <td width="60%" valign="top">
+      <h3>🚀 Greetings, Earthling!</h3>
+      <p>I am a tech enthusiast and designer crafting interactive, immersive digital experiences. I love blending <b>3D design aesthetics</b> with clean, high-performance code.</p>
+      <p>🎮 When I'm not coding, I'm designing hardware concepts, exploring futuristic tech, or leveling up my skills.</p>
+      <p>⚡ <i>"The best way to predict the future is to invent it."</i></p>
+    </td>
+    <td width="40%" align="center" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=[YourUsername]&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats" style="max-width:100%;" />
+    </td>
+  </tr>
+</table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="47%" />
+---
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="47%" />
+## 🛠️ TECH STACK & ARSENAL
 
+### 🔥 Languages & Frameworks
+<p align="left">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
+</p>
+
+### 🎨 Design & 3D Modeling
+<p align="left">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+  <img src="https://img.shields.io/badge/UI/UX-FF69B4?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="UI/UX" />
 </p>
 
 ---
 
-# 📈 LANGUAGES
+## 📊 LEVELING UP (GAMER STATS)
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YourUsername]&layout=compact&theme=vision-glow&hide_border=false" alt="Top Languages" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YourUsername]&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 🚀 PROJECTS
-
-## ScamShield-X
-AI-based system designed to detect fraudulent activity and improve online safety.
-
-## To-Do App
-A simple and efficient task management application for daily productivity.
-
----
-
-# 🐍 CONTRIBUTIONS
+## 🏆 TROPHIES & ACHIEVEMENTS
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=[YourUsername]&theme=onedark&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
 
-# 🏆 ACHIEVEMENTS
+## 🌐 CONNECT WITH ME
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7" />
-
+  <a href="https://github.com/[YourUsername]">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://youtube.com">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
----
-
-# ⚡ END MESSAGE
-
-<div align="center">
-
-I focus on building, learning, and improving every day.
-
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=[YourUsername]&color=neon" alt="Visitor Counter" />
+</p>
