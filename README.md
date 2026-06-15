@@ -16,6 +16,18 @@
 
 </div>
 
+<!-- Animated Neon Divider -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=gradient&customColorList=12,14,19,24" />
+</div>
+
+<br>
+
+<!-- Cyberpunk City Banner -->
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:00f7ff,50:9d00ff,100:ff0055&text=ENTER%20THE%20CODEVERSE&fontColor=ffffff&fontSize=45&animation=twinkling&stroke=00f7ff&strokeWidth=2" />
+</div>
+
 ---
 
 <div align="center">
