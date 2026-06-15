@@ -1,195 +1,114 @@
 <div align="center">
 
-<!-- ===== HERO HOLOGRAPHIC TITLE ===== -->
+<!-- ===== MAIN SVG HOLOGRAPHIC TITLE ===== -->
 
-<h1 style="font-size:44px;
-background: linear-gradient(90deg,#00f5ff,#ff00ff,#00ff88);
--webkit-background-clip:text;
-color:transparent;
-text-shadow:0 0 30px #00f5ff;">
-VIHAAN | THE LEGEND ⚡
-</h1>
+<svg width="100%" height="120">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5ff"/>
+      <stop offset="50%" stop-color="#ff00ff"/>
+      <stop offset="100%" stop-color="#00ff88"/>
+    </linearGradient>
+  </defs>
 
-<!-- TYPE ANIMATION -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=2500&pause=400&color=00F5FF&center=true&vCenter=true&width=800&lines=3D+Thinker;AI+Builder;Game+Dev+Architect;Future+System+Designer" />
-
-<!-- HERO 3D ILLUSION GIF -->
-<img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif"
-width="80%" style="border-radius:20px; box-shadow:0 0 60px #00f5ff;" />
-
-</div>
-
----
-
-# 🌐 HOLOGRAPHIC STATUS PANEL
-
-<div style="
-background: radial-gradient(circle at top,#111,#000);
-padding:20px;
-border-radius:20px;
-box-shadow:0 0 30px #00f5ff;
-color:white;
-">
-
-⚡ SYSTEM: ACTIVE  
-🧠 AI CORE: ONLINE  
-🧊 3D LAYER: ENABLED  
-🚀 BUILD MODE: MAXIMUM  
-
-</div>
+  <text x="50%" y="70"
+    text-anchor="middle"
+    font-size="40"
+    font-family="Arial"
+    fill="url(#g1)"
+    font-weight="bold">
+    VIHAAN | THE LEGEND
+  </text>
+</svg>
 
 ---
 
-# 🧊 FLOATING SKILL CARDS (3D ILLUSION GRID)
+<!-- ===== NEON PANEL SVG (REAL GRAPHICS) ===== -->
 
-<div align="center">
+<svg width="90%" height="220">
 
-<table>
+  <defs>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="4" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
 
-<tr>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#111"/>
+      <stop offset="100%" stop-color="#000"/>
+    </linearGradient>
+  </defs>
 
-<td style="
-background:#111;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 20px #00f5ff;
-">
-⚡ AI / ML
-</td>
+  <rect x="10" y="10" width="100%" height="200" rx="20"
+        fill="url(#bg)" stroke="#00f5ff" stroke-width="2"
+        filter="url(#glow)" />
 
-<td style="
-background:#111;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 20px #ff00ff;
-">
-🧠 Python
-</td>
+  <text x="50%" y="70" text-anchor="middle" fill="#00f5ff" font-size="18">
+    ⚡ AI SYSTEM: ACTIVE
+  </text>
 
-<td style="
-background:#111;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 20px #00ff88;
-">
-🌐 Web Dev
-</td>
+  <text x="50%" y="110" text-anchor="middle" fill="#ff00ff" font-size="18">
+    🧠 ENGINE: NEURAL CORE ONLINE
+  </text>
 
-</tr>
+  <text x="50%" y="150" text-anchor="middle" fill="#00ff88" font-size="18">
+    🚀 BUILD MODE: LEGENDARY
+  </text>
 
-<tr>
-
-<td style="
-background:#111;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 20px #00f5ff;
-">
-🎮 Game Dev
-</td>
-
-<td style="
-background:#111;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 20px #ff00ff;
-">
-⚙️ Systems
-</td>
-
-<td style="
-background:#111;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 20px #00ff88;
-">
-🧊 3D Thinking
-</td>
-
-</tr>
-
-</table>
-
-</div>
+</svg>
 
 ---
 
-# 🌌 PROJECT UNIVERSE (HOVER STYLE CARDS)
+<!-- ===== SKILL MATRIX (GRAPHICAL GRID) ===== -->
 
-<div style="display:flex; flex-wrap:wrap; justify-content:center; gap:10px;">
+<svg width="90%" height="260">
 
-<div style="
-width:250px;
-background:#0a0a0a;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 25px #00f5ff;
-">
-<b>🛡 ScamShield-X</b><br>
-AI Fraud Detection System
-</div>
+  <rect width="100%" height="100%" rx="20" fill="#0a0a0a"/>
 
-<div style="
-width:250px;
-background:#0a0a0a;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 25px #ff00ff;
-">
-<b>🍱 Zero Waste App</b><br>
-Food Redistribution System
-</div>
+  <!-- boxes -->
+  <rect x="30" y="30" width="150" height="80" rx="15" fill="#111" stroke="#00f5ff"/>
+  <text x="105" y="80" fill="white" text-anchor="middle">AI / ML</text>
 
-<div style="
-width:250px;
-background:#0a0a0a;
-padding:15px;
-border-radius:15px;
-box-shadow:0 0 25px #00ff88;
-">
-<b>🐱 Quantum Cat</b><br>
-Time Manipulation Game
-</div>
+  <rect x="220" y="30" width="150" height="80" rx="15" fill="#111" stroke="#ff00ff"/>
+  <text x="295" y="80" fill="white" text-anchor="middle">Python</text>
 
-</div>
+  <rect x="410" y="30" width="150" height="80" rx="15" fill="#111" stroke="#00ff88"/>
+  <text x="485" y="80" fill="white" text-anchor="middle">Web Dev</text>
+
+  <rect x="30" y="140" width="150" height="80" rx="15" fill="#111" stroke="#00f5ff"/>
+  <text x="105" y="190" fill="white" text-anchor="middle">Game Dev</text>
+
+  <rect x="220" y="140" width="150" height="80" rx="15" fill="#111" stroke="#ff00ff"/>
+  <text x="295" y="190" fill="white" text-anchor="middle">Systems</text>
+
+  <rect x="410" y="140" width="150" height="80" rx="15" fill="#111" stroke="#00ff88"/>
+  <text x="485" y="190" fill="white" text-anchor="middle">3D Logic</text>
+
+</svg>
 
 ---
 
-# 🌠 3D DEPTH VISUAL SECTION
+<!-- ===== PROJECT VISUAL DASHBOARD ===== -->
 
-<div align="center">
+<svg width="90%" height="180">
 
-<img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif"
-width="70%"
-style="border-radius:20px;
-box-shadow:0 0 80px #ff00ff;" />
+  <rect width="100%" height="100%" rx="20" fill="#000" stroke="#00f5ff"/>
 
-</div>
+  <text x="50%" y="50" text-anchor="middle" fill="#00f5ff" font-size="20">
+    PROJECT UNIVERSE
+  </text>
 
----
+  <text x="50%" y="90" text-anchor="middle" fill="#aaa">
+    ScamShield-X • Zero Waste • Quantum Cat
+  </text>
 
-# 📊 GITHUB STATS (NEON GLASS MODE)
+  <text x="50%" y="130" text-anchor="middle" fill="#ff00ff">
+    AI + Real World Systems + Game Physics
+  </text>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%"/>
-
-</div>
-
----
-
-# 🌈 CONNECT (FLOATING BADGES)
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github" />
-<img src="https://img.shields.io/badge/LinkedIn-00f5ff?style=for-the-badge&logo=linkedin" />
-<img src="https://img.shields.io/badge/Portfolio-ff00ff?style=for-the-badge" />
+</svg>
 
 </div>
-
----
-
-# 🧠 FINAL SYSTEM STATE
