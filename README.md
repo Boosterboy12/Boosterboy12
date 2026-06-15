@@ -16,11 +16,11 @@
 
 ## 🌌 ABOUT ME
 
-- ⚡ Building futuristic AI + App systems  
-- 🧠 Learning Deep Learning, Neural Networks, ML  
-- 🎮 Game dev explorer (Quantum Cat project 💀)  
-- 🚀 Focused on real-world impactful apps  
-- 💡 Goal: Become an independent legendary dev  
+- ⚡ Building futuristic AI & real-world apps  
+- 🧠 Learning Machine Learning, Deep Learning, Neural Networks  
+- 🎮 Game dev explorer (Quantum Cat project universe)  
+- 🚀 Focused on impactful, production-level projects  
+- 💡 Mission: Become an independent legendary developer  
 
 ---
 
@@ -34,13 +34,13 @@
 
 ---
 
-## 📊 GITHUB STATS
+## 📊 GITHUB PERFORMANCE
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true" width="48%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Boosterboy12&theme=radical&hide_border=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical&hide_border=true" width="48%" />
 
 </p>
 
@@ -49,7 +49,7 @@
 ## 🧠 MOST USED LANGUAGES
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterboy12&layout=compact&theme=radical&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
@@ -57,49 +57,32 @@
 ## 🎮 PROJECT SHOWCASE
 
 ### 🔥 To-Do List App
-- 🧠 Simple but powerful productivity app  
-- ⚡ Built with modern UI logic  
-- 📱 Mobile-friendly design  
-- 🚀 Focus on real-world usability  
+A simple but powerful productivity app designed for real-world usage.
+
+- ⚡ Clean UI & smooth UX  
+- 🧠 Built with modern development logic  
+- 📱 Mobile responsive design  
+- 🚀 Focused on productivity & simplicity  
 
 ---
 
-## 🐍 CONTRIBUTION SNAKE
+## 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake.svg" />
-
-</p>
----
-
-## 🎧 SPOTIFY NOW PLAYING
-<p align="center">
-
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=_OG_=_GOD_&cover_image=true&theme=novatorem" />
-
-</p>
----
-
-## 🌐 CONNECT WITH ME
-
-<p align="center">
-
-<a href="https://github.com/Boosterboy12">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
-</a>
-
----
-
-## ⚡ 3D PROFILE BADGES
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=radical&no-frame=true&row=1&column=7" />
+<img src="https://github.com/platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌈 FINAL MOTTO
+## 🏆 GITHUB ACHIEVEMENTS
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## ⚡ FINAL MOTTO
 
 <div align="center">
 
