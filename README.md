@@ -1,34 +1,42 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/type=cyberpunk&color=00f0ff&text=SYSTEM%20ONLINE&animation=glitch&height=150" width="100%"/>
-</p>
+<div align="center">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🤖 Terminal_Log.txt</h3>
-      <p>🧠 Specialize in: <b>Hardware Design // App Development // Creative Engineering</b></p>
-      
-      <h3>🛠️ Core Subsystems (Tech Stack)</h3>
-      <p>
-        <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-        <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      </p>
-    </td>
-    
-    <td width="50%" align="center" valign="middle">
-      <img src="https://media.giphy.com/media/your-cool-transparent-hologram-gif/giphy.gif" width="280px"/>
-    </td>
-  </tr>
-</table>
+  <!-- CYBER HEADER -->
+  <svg width="100%" height="180">
+    <defs>
+      <linearGradient id="g" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00f5ff" />
+        <stop offset="50%" stop-color="#ff00ff" />
+        <stop offset="100%" stop-color="#00ff88" />
+      </linearGradient>
+      <filter id="glow">
+        <feGaussianBlur stdDeviation="4" result="coloredBlur" />
+        <feMerge>
+          <feMergeNode in="coloredBlur" />
+          <feMergeNode in="SourceGraphic" />
+        </feMerge>
+      </filter>
+    </defs>
+    <text x="50%" y="50%" text-anchor="middle" font-size="28" fill="url(#g)" filter="url(#glow)" font-family="Verdana">
+      ⚡ VIHAAN THE LEGEND ⚡
+    </text>
+  </svg>
 
-### 🌌 Spatial Grid Activity
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
-</p>
+  ---
 
-### 📊 Subsystem Diagnostics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=tokyonight&count_private=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-USERNAME&theme=tokyonight" width="48%"/>
-</p>
+  ## 🎮 SYSTEM INITIALIZED :: DEV PROFILE ACTIVE
+
+  **STATUS:** ONLINE  
+  **MODE:** BUILDING LEGENDARY PROJECTS  
+  **FOCUS:** AI • ML • GAME DEV • APPS  
+  **LEVEL:** INFINITE GRIND 🔥
+
+  ---
+
+  ## 🧠 ABOUT ME (HACKER CORE PROFILE)
+
+```diff
++ Future Indie Developer
++ Builder of unique AI systems & games
++ Creator of "The Quantum Cat" 🐱⚛️
++ Obsessed with futuristic tech & UI design
+! Warning: Always building something insane
