@@ -2,7 +2,7 @@
 
 # 🧠⚡ SYSTEM BOOTING: VIHAAN THE LEGEND ⚡🧠
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e,200:16213e&height=220&section=header&text=LEGEND%20MODE%20ACTIVATED&fontSize=40&fontColor=00f5ff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1a1a2e,200:16213e&height=220&section=header&text=CODE%20TO%20WIN&fontSize=40&fontColor=00f5ff" />
 
 <br/>
 
@@ -29,13 +29,13 @@ MODE        : LEGENDARY 🔥
 
 ### 📊 SYSTEM PERFORMANCE (REAL TIME STATS)
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="48%" /> 
+  <img src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=tokyonight&hide_border=true" width="48%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Boosterboy12&theme=tokyonight&hide_border=true" width="48%" /> 
 </p>
 
 ### 🧠 LANGUAGE MATRIX
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterboy12&layout=compact&theme=tokyonight&hide_border=true" /> 
 </p>
 
 ### 🔥 SKILL PROGRESS BARS (REAL VISUAL UPGRADE)
@@ -72,12 +72,12 @@ SUCCESS: VIHAAN THE LEGEND IS ONLINE ⚡
 
 ### 🐍 CONTRIBUTION SNAKE (FIXED + WORKING)
 <p align="center"> 
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" /> 
+  <img src="https://raw.githubusercontent.com/Boosterboy12/Boosterboy12/output/github-contribution-grid-snake.svg" /> 
 </p>
 
 ### 🏆 ACHIEVEMENTS VAULT
 <p align="center"> 
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=matrix&no-frame=true&row=1&column=7" /> 
+  <img src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=matrix&no-frame=true&row=1&column=7" /> 
 </p>
 
 ---
