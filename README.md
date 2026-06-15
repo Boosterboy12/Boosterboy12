@@ -151,6 +151,7 @@ favorite_stack:
   alt="Power Levels Chart"
   src="https://quickchart.io/chart?width=420&height=260&backgroundColor=transparent&c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27JS%27%2C%27React%27%2C%27Python%27%2C%27Node%27%2C%27Git%27%2C%27Design%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27XP%27%2Cdata%3A%5B98%2C94%2C90%2C88%2C92%2C85%5D%2CbackgroundColor%3A%5B%27%2300f7ff%27%2C%27%23ff0055%27%2C%27%239d00ff%27%2C%27%2300ff88%27%2C%27%23ffaa00%27%2C%27%23ffffff%27%5D%7D%5D%7D%2Coptions%3A%7Blegend%3A%7Bdisplay%3Afalse%7D%2Cscales%3A%7ByAxes%3A%5B%7Bticks%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%2CfontColor%3A%27white%27%7D%2CgridLines%3A%7Bcolor%3A%27rgba%28255%2C255%2C255%2C0.15%29%27%7D%7D%5D%2CxAxes%3A%5B%7Bticks%3A%7BfontColor%3A%27white%27%7D%2CgridLines%3A%7Bcolor%3A%27rgba%28255%2C255%2C255%2C0.08%29%27%7D%7D%5D%7D%7D%7D"
 />
+
 ---
 
 <div align="center">
