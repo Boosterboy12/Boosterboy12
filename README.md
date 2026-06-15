@@ -62,36 +62,21 @@
 </p>
 
 ## 📊 LIVE NEON METRICS & STATS
-
-<!-- Responsive side-by-side flex block layout -->
+<!-- 3D CYBERPUNK CHROME HEADER (Using high-reliability dynamic text layer) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Boosterboy12&show_icons=true&theme=vision-glow&hide_border=false&title_color=00f0ff&icon_color=ff0055&bg_color=0d1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boosterboy12&layout=compact&theme=vision-glow&hide_border=false&title_color=00f0ff&bg_color=0d1117" width="48%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=35&duration=2000&pause=500&color=00F0FF&center=true&vCenter=true&width=700&lines=❖+CYBER+REALM+❖;❖+VIHAAN'S+MAIN_FRAME+❖" alt="Header Matrix" />
+</p>
+
+<!-- DYNAMIC TYPING SUBTITLE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&duration=3000&pause=800&color=FF0055&center=true&vCenter=true&width=600&lines=⚡+INITIALIZING+SYSTEM_ENGINES...;🚀+BUILDING+MOBILE+APPS+WITH+FLUTTER;🎨+DESIGNING+FUTURISTIC+3D+HARDWARE;🏆+LEVEL+99+DEVELOPER+STATUS:+ACTIVE" alt="Sub Matrix" />
 </p>
 
 ---
 
-## 🏆 REPUTATION & TROPHIES
+## 🌌 SYSTEM OVERVIEW // ABOUT ME
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Boosterboy12&theme=shades-of-purple&column=4&margin-w=20&margin-h=20&no-bg=false&no-frame=false" width="100%" />
-  </a>
-</p>
-
----
-
-## 📡 TERMINAL UPLINK
-
-<p align="center">
-  <a href="https://github.com/Boosterboy12">
-    <img src="https://img.shields.io/badge/SECURE_ACCESS-000000?style=for-the-badge&logo=github&logoColor=00f0ff" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/TRANSMIT_SIGNAL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Boosterboy12&color=ff0055&style=flat-square" alt="Grid Tracker" />
-</p>
+```yaml
+⚙️ STATUS  : Level 99 Developer Archetype
+⚙️ MISSION : Bending reality through high-performance execution
+⚙️ VIBE    : Pure Synthwave & Neon Cyberpunk Aesthetics
