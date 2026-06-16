@@ -78,19 +78,19 @@ favorite_stack:
 <tr>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/QUANTUM MIND%25-00ff88?style=for-the-badge&logo=heart&logoColor=white" />
-<br><b>Focus</b>
+<br><b>VISION</b>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/LIMITLESS CODER-00f7ff?style=for-the-badge&logo=lightning&logoColor=white" />
-<br><b>Creativity</b>
+<br><b>POTENTIAL</b>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/CODE FEARLESSLY-ff0055?style=for-the-badge&logo=target&logoColor=white" />
-<br><b>Problem Solving</b>
+<br><b>COURAGE</b>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/STAY LEGENDARY-9d00ff?style=for-the-badge&logo=shield&logoColor=white" />
-<br><b>Debugging</b>
+<br><b>GREATNESS</b>
 </td>
 </tr>
 </table>
