@@ -9,7 +9,7 @@
 <br><br>
 
 <!-- Gamer Badges -->
-<img src="https://img.shields.io/badge/LEVEL-99-ff0055?style=for-the-badge&logo=starship&logoColor=white" />
+<img src="https://img.shields.io/badge/DEVELOPER-ff0055?style=for-the-badge&logo=starship&logoColor=white" />
 <img src="https://img.shields.io/badge/CLASS-FULLSTACK%20DEV-00f7ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 <img src="https://img.shields.io/badge/RANK-ELITE%20CODER-9d00ff?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/XP-999999-gold?style=for-the-badge&logo=thunderbird&logoColor=black" />
@@ -102,7 +102,7 @@ favorite_stack:
 
 ## 🕹️ Tech Loadout
 
-<img src="https://skillicons.dev/icons?i=html,css,python,mysql,git,github,vscode,figma,blender,seaborn,pytorch,scikitlearn,unity,unrealengine,tensorflow,anaconda,flutter,flutterflow&perline=9" />
+<img src="https://skillicons.dev/icons?i=html,css,python,mysql,git,github,vscode,figma,blender,seaborn,pytorch,scikitlearn,unity,unrealengine,tensorflow,anaconda,flutter,&perline=9" />
 
 <br><br>
 
