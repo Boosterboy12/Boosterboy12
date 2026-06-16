@@ -126,7 +126,7 @@ favorite_stack:
 
 ### ⚔️ Combat Skills
 
-<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Frontend','Backend','UI/UX','Databases','AI','Gaming'],datasets:[{label:'Power',data:[95,88,90,82,86,92],backgroundColor:'rgba(0,247,255,.25)',borderColor:'rgb(0,247,255)',pointBackgroundColor:'rgb(255,0,255)'}]},options:{legend:{labels:{fontColor:'white'}},scale:{ticks:{beginAtZero:true,max:100,fontColor:'white'},pointLabels:{fontColor:'white'}}}}" />
+<img src="https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','AI','ML','Deep Learning','App Dev','Gaming'],datasets:[{label:'Power',data:[95,92,90,88,87,92],backgroundColor:'rgba(0,247,255,.25)',borderColor:'rgb(0,247,255)',pointBackgroundColor:'rgb(255,0,255)'}]},options:{legend:{labels:{fontColor:'white'}},scale:{ticks:{beginAtZero:true,max:100,fontColor:'white'},pointLabels:{fontColor:'white'}}}}" />
 
 </td>
 <td width="50%" align="center" valign="top">
