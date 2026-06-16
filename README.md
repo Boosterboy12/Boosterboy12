@@ -10,9 +10,10 @@
 
 <!-- Gamer Badges -->
 <img src="https://img.shields.io/badge/DEVELOPER-ff0055?style=for-the-badge&logo=starship&logoColor=white" />
-<img src="https://img.shields.io/badge/CLASS-FULLSTACK%20DEV-00f7ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-<img src="https://img.shields.io/badge/RANK-ELITE%20CODER-9d00ff?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/XP-999999-gold?style=for-the-badge&logo=thunderbird&logoColor=black" />
+<img src="https://img.shields.io/badge/CODER-00f7ff?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/AI/ML ENGINEER-9d00ff?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/WEB DEVELOPER-gold?style=for-the-badge&logo=thunderbird&logoColor=black" />
+<img src="https://img.shields.io/badge/GAMER-red?style=for-the-badge&logo=thunderbird&logoColor=black" />
 
 <br><br>
 
