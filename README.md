@@ -44,17 +44,17 @@
 ```yaml
 name: "Vihaan"
 username: "Boosterboy12"
-role: "Developer | Gamer | Builder"
-location: "Earth Server"
+role: "DEVELOPER | GAMER | CODER"
+location: "INDIA"
 current_mission: "Building next-level projects"
-power_level: "Over 9000"
 status: "Always learning. Always building."
 favorite_stack:
-  - JavaScript
-  - TypeScript
   - Python
-  - React
-  - Node.js
+  - Html
+  - Css
+  - Java
+  - Unity
+  - Blender
   - AI Tools
   - Game Development
 ```
@@ -77,19 +77,19 @@ favorite_stack:
 <table width="100%">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/HP-100%25-00ff88?style=for-the-badge&logo=heart&logoColor=white" />
+<img src="https://img.shields.io/badge/QUANTUM MIND%25-00ff88?style=for-the-badge&logo=heart&logoColor=white" />
 <br><b>Focus</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/MP-9999-00f7ff?style=for-the-badge&logo=lightning&logoColor=white" />
+<img src="https://img.shields.io/badge/LIMITLESS CODER-00f7ff?style=for-the-badge&logo=lightning&logoColor=white" />
 <br><b>Creativity</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/ATK-LEGENDARY-ff0055?style=for-the-badge&logo=target&logoColor=white" />
+<img src="https://img.shields.io/badge/CODE FEARLESSLY-ff0055?style=for-the-badge&logo=target&logoColor=white" />
 <br><b>Problem Solving</b>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/DEF-ELITE-9d00ff?style=for-the-badge&logo=shield&logoColor=white" />
+<img src="https://img.shields.io/badge/STAY LEGENDARY-9d00ff?style=for-the-badge&logo=shield&logoColor=white" />
 <br><b>Debugging</b>
 </td>
 </tr>
